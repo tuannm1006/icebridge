@@ -1,0 +1,15 @@
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+setup.py
+python/icebridge/__init__.py
+python/icebridge/client.py
+python/icebridge/gateway.py
+python/icebridge/version.py
+python/icebridge.egg-info/PKG-INFO
+python/icebridge.egg-info/SOURCES.txt
+python/icebridge.egg-info/dependency_links.txt
+python/icebridge.egg-info/requires.txt
+python/icebridge.egg-info/top_level.txt
+python/icebridge/jars/app-uber.jar

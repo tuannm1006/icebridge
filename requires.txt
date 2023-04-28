@@ -1,0 +1,5 @@
+py4j==0.10.9.5
+fsspec
+s3fs
+pyarrow>=6
+numpy>=1.20
